@@ -1,0 +1,3 @@
+Hello i am second commit
+And this is my first change to second file
+This is the second change
